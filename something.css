@@ -7,6 +7,11 @@
     color: black;
     height:50px
   }
+.chonk {
+    position: absolute;
+    height: auto;
+    width: auto;
+  }
   .left {
     position: absolute;
     top: 55%;
